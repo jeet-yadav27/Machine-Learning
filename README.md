@@ -6,11 +6,19 @@ This predictive model, developed based on the provided information, will serve a
 
 <b>Data Description
 vote: Party choice: Conservative or Labour
+
 age: in years
+
 economic.cond.national: Assessment of current national economic conditions, 1 to 5.
+
 economic.cond.household: Assessment of current household economic conditions, 1 to 5.
+
 Blair: Assessment of the Labour leader, 1 to 5.
+
 Hague: Assessment of the Conservative leader, 1 to 5.
+
 Europe: an 11-point scale that measures respondents' attitudes toward European integration.   High scores represent ‘Eurosceptic’ sentiment.
+
 political.knowledge: Knowledge of parties' positions on European integration, 0 to 3.
+
 gender: female or male.
