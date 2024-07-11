@@ -4,7 +4,7 @@ leverage machine learning to build a predictive model capable of forecasting whi
 
 This predictive model, developed based on the provided information, will serve as the foundation for creating an exit poll. The exit poll aims to contribute to the accurate prediction of the overall election outcomes, including determining which party is likely to secure the majority of seats.
 
-Data Description
+<b>Data Description
 vote: Party choice: Conservative or Labour
 age: in years
 economic.cond.national: Assessment of current national economic conditions, 1 to 5.
